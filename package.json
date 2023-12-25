@@ -36,6 +36,8 @@
     ]
   },
   "devDependencies": {
-    "@wixc3/react-board": "^2.3.0"
+    "@wixc3/react-board": "^2.3.0",
+    "daisyui": "^4.4.24",
+    "tailwindcss": "^3.4.0"
   }
 }
