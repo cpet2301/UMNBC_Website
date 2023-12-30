@@ -1,19 +1,17 @@
 import './App.css';
 import Header from './components/Header.js';
+import Hero1 from './components/Hero1.js';
+import Footer from './components/Footer.js';
 
 function App() {
-    return (
-        
-        
-        
-       <>
-        
-        <Header/>
-        <h1 className="text-3xl font-bold  App">
-      Hello world!
-        </h1>
-        </>
-    );
+  return (
+    <>
+      <Header/>
+      <Hero1/>
+      <Footer/>
+      
+    </>
+  );
 }
 
 export default App;
